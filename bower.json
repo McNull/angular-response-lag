@@ -1,0 +1,31 @@
+{
+  "name": "angular-response-lag",
+  "version": "0.0.1",
+  "homepage": "https://github.com/McNull/angular-response-lag",
+  "authors": [
+    "Null McNull <no@spam.org>"
+  ],
+  "description": "Development interceptor that simulates server response lag.",
+  "main": "angular-response-lag.js",
+  "keywords": [
+    "angular",
+    "delay",
+    "lag",
+    "slow",
+    "simulation",
+    "response"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "package.json",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23"
+  }
+}
